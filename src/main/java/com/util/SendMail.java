@@ -24,7 +24,7 @@ public class SendMail{
 		String to="160120107058@git.org.in";
 		String from = "truptimaheta227@gmail.com";
 		final String username = "truptimaheta227@gmail.com";// change accordingly
-		final String password = "227t@810";// change accordingly
+		final String password = "*******";// change accordingly
 
 		Properties props = new Properties();
 		props.put("mail.smtp.user", "username");
